@@ -10,4 +10,4 @@ Send a `HTTP POST` request to the webhook of the desired channel with the JSON P
 
 ## License
 
-This project is licensed under the [MIT License](./LICENSE) © [Prime Studios](https://github.com/PrimeStudios)
+This project is licensed under the [MIT License](./LICENSE) &copy; [Prime Studios](https://github.com/PrimeStudios)
