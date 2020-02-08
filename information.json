@@ -1,0 +1,36 @@
+{
+	"embeds": [{
+		"title": "Prime Studios Discord Server",
+		"url": "https://discord.gg/6RYP7BU",
+		"author": {
+			"name": "Prime Studios",
+			"url": "https://primestudios.co/",
+			"icon_url": "https://primestudios.co/assets/img/logo.png"
+		},
+		"footer": {
+			"text": "Information",
+			"icon_url": "https://lh3.googleusercontent.com/proxy/P-ZS3EsIYkMCfGZoB51sl0_PulsBKQhNiw99_dZKGPM-XXkH1aDMbF6XMFvPzIpk5UP55ZIObbeE6Up3OKoDy4Z4yUSbcbv0w5OqMsoo_n0EvXgvRyLq_lk"
+		},
+		"timestamp": "2020-02-08T10:03:00.000Z",
+		"color": 15756080,
+		"fields": [{
+				"name": "Information",
+				"value": "[Prime Studios](https://primestudios.co/) is a freelance web development group based in the United States. We offer [web development](https://primestudios.co/web/) and [system administration](https://primestudios.co/systems/) services."
+			},
+			{
+				"inline": true,
+				"name": "Support",
+				"value": "Need assistance? Mention <@&675616342652747784> or <@&675617142149873674> in <#675621930036101120>."
+			},
+			{
+				"name": "Rules",
+				"inline": true,
+				"value": "Be sure to read our <#675628125341614083>."
+			},
+			{
+				"name": "Hiring",
+				"value": "Interested in hiring us for your project?  \n Contact us on Discord via <#675621930036101120> or [Schedule a consultation via our website](https://primestudios.co/contact/)."
+			}
+		]
+	}]
+}
