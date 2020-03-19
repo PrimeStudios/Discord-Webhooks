@@ -1,4 +1,4 @@
-# Prime Servers Discord Webhooks
+# Prime Studios Discord Webhooks
 
 ## Overview
 
